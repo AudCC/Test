@@ -1,0 +1,26 @@
+#bouton
+{
+	font-family: 'Metropolis Semi','Fontin Sans Rg', 'Nunito', Arial;
+	color : white;
+	text-align: center;
+	text-decoration: none;
+	font-size : 120%;
+	padding : 25px;
+	background-color: #4E8AB0;
+	width: 90%;
+	max-width: 300px ;
+	border: 1px gray solid;
+	border-radius: 10px;
+	color : white;
+	box-shadow: 3px 3px 6px gray;
+	width: 30%;
+	margin-top : 8%;
+	
+}
+
+#bouton:hover
+{
+	background-color: #B7DFFC;
+	color: #4E8AB0;	
+	box-shadow: none;
+}
